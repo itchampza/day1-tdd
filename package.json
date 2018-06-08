@@ -1,0 +1,15 @@
+{
+    "name": "my-project",
+    "scripts": {
+        "jest": "jest"
+    },
+    "devDependencies": {
+        "jest": "^21.2.1"
+    },
+    "jest": {
+        "verbose": true
+    },
+    "dependencies": {
+        "vue-sweetalert2": "^1.2.4"
+    }
+}
